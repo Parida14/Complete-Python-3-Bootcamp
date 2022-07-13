@@ -7,12 +7,14 @@ print("I am testing version control")
 print("vs code is pretty cool")
 
 
-<<<<<<< HEAD
 print("123")
 
+
+print ("learning git")
 
 
 ##Another commit test
-=======
-print("123")
->>>>>>> 63502d83586251236cbcc3b9ecbed20caef568c3
+
+
+
+
